@@ -1,2 +1,2 @@
 //First line of index.js
-//this is also version1
+//this is also version2
